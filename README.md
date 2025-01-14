@@ -1,2 +1,2 @@
 # NavineDupe
-A Minecraft servers information on minekeep
+This is the offical place where I will be posting about NavineDupe
